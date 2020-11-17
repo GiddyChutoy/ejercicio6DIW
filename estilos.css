@@ -36,6 +36,7 @@
     border: purple 2px solid;
     border-radius: 5px;
     background-image: url(images/search.png);
+    /*background: no-repeat;  esto deberia funcionar pero no lo hace asi que esta comentado*/
 }
 
 .submit {
